@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://files.catbox.moe/6yi64z.png" alt="˹ꜱʜʀᴇᴇ ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://files.catbox.moe/nhg5ko.png" alt="˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼" width="400"/>
   
-  # 🎵 ˹ꜱʜʀᴇᴇ ᴍᴜꜱɪᴄ˼
+  # 🎵 ˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼
 
   
   <p><b>A Powerful Telegram Music Player Bot</b></p>
@@ -67,7 +67,7 @@ bash start
 
 ## 📞 Support & Contact
 
-- **Telegram Channel**: [Shreebots](https://t.me/shreebots)
+- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
 - **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusic) 
 
 ---
@@ -85,6 +85,6 @@ bash start
   
   ### Made with ❤️ by Artist 
   
-  **© 2025 ˹ꜱʜʀᴇᴇ ᴍᴜꜱɪᴄ˼. All rights reserved.**
+  **© 2025 ˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼. All rights reserved.**
   
 </div>
