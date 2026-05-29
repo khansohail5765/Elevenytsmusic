@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://files.catbox.moe/f177uk.jpg" alt="˹Elevenyts ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://files.catbox.moe/f177uk.jpg" alt="Leo ᴍᴜꜱɪᴄ˼" width="400"/>
   
   # 🎵 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼
 
   
   <p><b>A Powerful Telegram Music Player Bot</b></p>
   
-  [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenytschats)
-  [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenytsmusic)
+  [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Leo000079)
+  [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/Leo000079)
   [![Telegram](https://img.shields.io/badge/Telegram-String_Session-Darkblue?style=for-the-badge&logo=telegram)](https://t.me/genStringbot)
   [![Cloudflare](https://img.shields.io/badge/Pinger-Cloudflare-orange?style=for-the-badge&logo=cloudflare)](https://dash.cloudflare.com)
 
@@ -21,7 +21,7 @@
 ## ✨ Features
 
 - 🎵 **High Quality Music Streaming** - Crystal clear audio with STUDIO quality
-- 📻 **Live Radio Streaming** - 50+ international and local radio stations (Request)
+- 📻 **Live Radio Streaming** - 50+ international and local radio stations (request)
 - 🎧 **YouTube Support** - Play music from YouTube links or search
 - 📝 **Queue System** - Manage multiple songs in queue
 - ⚡ **Fast & Reliable** - Built with Pyrogram and PyTgCalls
@@ -139,8 +139,8 @@ bash start
 
 ## 📞 Support & Contact
 
-- **Telegram Channel**: [@Elevenyts](https://t.me/elevenytschats)
-- **Support Group**: [@Elevenyts Music](https://t.me/elevenytsmusic) 
+- **Telegram Channel**: [@Leo000079](https://t.me/Leo000079)
+- **Support Group**: [@Leo000079](https://t.me/Leo000079) 
 
 ---
 
